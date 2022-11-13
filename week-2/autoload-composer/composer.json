@@ -1,0 +1,16 @@
+{
+    "name": "ue-3dw15-2020/week2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vincent Godé",
+            "email": "vincent.gode@groupe-celios.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "class/"
+        }
+    }
+}
